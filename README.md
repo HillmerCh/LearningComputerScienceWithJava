@@ -3,4 +3,4 @@ Introduction to computer science and programming intended for people with little
 
 # Objectives
 
-- integrate from eclipse maven and GitHub
+- integrate from Eclipse maven and GitHub
