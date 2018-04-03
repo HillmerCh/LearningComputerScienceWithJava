@@ -7,6 +7,7 @@ public class HelloWorld {
         System.out.println("Hello\nworld");
         System.out.println("Hello \"beauty\" world");
         System.out.println("Hello\tworld");
+        System.out.println("Helloworld");
         //Other examples
     }
 }
