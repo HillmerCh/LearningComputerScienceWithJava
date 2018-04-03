@@ -9,11 +9,11 @@ Introduction to computer science and programming intended for people with little
 
 - Integrar desde Eclipse Maven y GitHub.
 
-# GIT
+# Git
 Eclipse trae de serie una componente denominada Egit que proporciona una interfaz bastante completa de las operaciones con Git. Para acceder a ella, en el menú Window > Show view > Other…, despliega la opcion de "Git", selecciona "Git repositories" y por ultimo open, apareceran las diferentes operaciones de Git.
 
 
-# MAVEN
+# Maven
 Por defecto eclipse usará una versión de maven interna.
 
 Desde el fichero pom.xml, clic derecho, elegimos la opción "Run as" y ahí tenemos los comandos básicos de maven para ejecutar, como "build", "clean", "install", "test", etc.
@@ -27,9 +27,9 @@ Si nos hace falta alguno, tenemos que crear una nueva configuración de "Run". E
 # PRÁCTICA
 Clonaremos el proyecto y en la clase principal "HelloWorld.java" utilizaremos las diferentes "Escape sequences" para conocer sus funciones. 
 
-\n	newline 
-\t	tab 
-\"	double quote 
+\n	newline <br /> 
+\t	tab <br />
+\"	double quote <br />
 \	backslash 
 
 
